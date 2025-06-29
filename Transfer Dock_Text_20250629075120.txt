@@ -1,0 +1,121 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harshit Sharma | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+    body {
+      background: linear-gradient(135deg, #1a1a40, #4a148c);
+      color: #fff;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 4rem 1rem;
+    }
+    header h1 {
+      font-size: 3rem;
+      color: #00e676;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 1rem;
+      color: #ccc;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #00e5ff;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style: square;
+      margin-left: 2rem;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 1.5rem;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: #aaa;
+      background: #111;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Harshit Sharma</h1>
+    <p>Computer Science Student | Cybersecurity Enthusiast | Developer</p>
+  </header>  <section>
+    <h2>About Me</h2>
+    <div class="card">
+      <p>I'm Harshit Sharma, a passionate Computer Science Engineering student from Jaipur. I love exploring the world of technology, especially in cybersecurity, programming, and app development. From building games using DSA to penetration testing Android apps, I enjoy solving problems and pushing my limits.</p>
+      <p>When I’m not coding, you’ll find me capturing moments through photography, editing visuals, or helping friends with tech issues. I believe in hard work, honesty, and the power of learning. I dream of building something of my own that helps people and changes lives — and I’m on my way there.</p>
+    </div><h2>Skills</h2>
+<div class="card">
+  <ul>
+    <li>C, C++, Python</li>
+    <li>DSA, SQL</li>
+    <li>Cybersecurity Tools (Burp Suite, Kali Linux, Frida, APKTool)</li>
+    <li>HTML, Java, Linux</li>
+  </ul>
+</div>
+
+<h2>Projects</h2>
+<div class="card">
+  <ul>
+    <li><strong>Labyrinth Game</strong> - Created using BFS and DFS algorithms</li>
+    <li><strong>Local Business Marketing App</strong> - Helps users find, order and refund local products</li>
+    <li><strong>Android Pentesting Lab</strong> - Tested InsecureBankv2 app for OWASP vulnerabilities</li>
+  </ul>
+</div>
+
+<h2>Internships</h2>
+<div class="card">
+  <ul>
+    <li><strong>DSA C++</strong> at Learn and Build (May–July 2024)</li>
+    <li><strong>Cybersecurity</strong> at 1stop.ai (May 2025 – Present)</li>
+  </ul>
+</div>
+
+<h2>Certificates</h2>
+<div class="card">
+  <ul>
+    <li>Cybersecurity</li>
+    <li>Introduction to Cybersecurity</li>
+    <li>DSA C++</li>
+    <li>HTML</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>Linux</li>
+    <li>Photography</li>
+  </ul>
+</div>
+
+<h2>Contact</h2>
+<div class="card">
+  <p>Email: hs02121980@gmail.com</p>
+  <p>Phone: 9887069011</p>
+  <p>Location: Jaipur, Rajasthan</p>
+</div>
+
+  </section>  <footer>
+    <p>&copy; 2025 Harshit Sharma. All rights reserved.</p>
+  </footer>
+</body>
+</html>
